@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PingController\PingController.csproj" />
+    <PackageReference Include="Chris.PingController" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
